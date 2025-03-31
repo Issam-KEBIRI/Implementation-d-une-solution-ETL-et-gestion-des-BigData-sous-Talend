@@ -98,7 +98,7 @@ Jobs | Composant_Inputs | Composant_Outputs | Description du job                
 
 ## Contact
 
-📫 How to reach me: kebiri.isam.dine@gmail.com
+📫 How to reach me: issam.eddine.kebiri@gmail.com
 
 🌐 My Portfolio: <https://issam-kebiri.github.io/>
 
